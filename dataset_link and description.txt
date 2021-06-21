@@ -1,0 +1,14 @@
+# Transaction data:following dataset contains transactions data: 
+
+For every transaction, the following fields have been provided:
+
+product_id,category,date
+
+For each category in the dataset, find out if there is a seasonal pattern in purchase behaviour. 
+Correspondingly, generate seasonal scores (Range: [0, 1]) for each category across seasons* to indicate seasonal relevance of the category at a given time period.
+
+https://goo.gl/kTnPMn
+ 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Ecommerce Click Stream data - Market Basket Analysis
+https://goo.gl/LqHSnK
